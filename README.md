@@ -1,2 +1,0 @@
-# datasciencecoursera
-datasciencecourserahomeworkWeek1Project
